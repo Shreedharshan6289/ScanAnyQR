@@ -1,0 +1,6 @@
+framework module Pods_ScanAnyQR_Tests {
+  umbrella header "Pods-ScanAnyQR_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

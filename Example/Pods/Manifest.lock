@@ -1,0 +1,16 @@
+PODS:
+  - ScanAnyQR (0.1.0)
+
+DEPENDENCIES:
+  - ScanAnyQR (from `../`)
+
+EXTERNAL SOURCES:
+  ScanAnyQR:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ScanAnyQR: ae6dae3f41c11a22b21ab8d3d05a8d01a3ef31d4
+
+PODFILE CHECKSUM: 72feb05917c8e33a270c9aa53b95c6946ce1636e
+
+COCOAPODS: 1.12.1

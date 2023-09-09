@@ -1,0 +1,6 @@
+framework module ScanAnyQR {
+  umbrella header "ScanAnyQR-umbrella.h"
+
+  export *
+  module * { export * }
+}
