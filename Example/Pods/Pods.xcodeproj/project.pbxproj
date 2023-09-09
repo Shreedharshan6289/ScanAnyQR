@@ -164,26 +164,10 @@
 		AC3725F22AAC9BFE000C4EFB /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				AC3725FA2AAC9C39000C4EFB /* View */,
-				AC3725F32AAC9C2E000C4EFB /* Controller */,
-			);
-			path = Source;
-			sourceTree = "<group>";
-		};
-		AC3725F32AAC9C2E000C4EFB /* Controller */ = {
-			isa = PBXGroup;
-			children = (
+				AC3725FE2AAC9C39000C4EFB /* ScannerView.swift */,
 				AC3725F52AAC9C2E000C4EFB /* ScannerVC.swift */,
 			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		AC3725FA2AAC9C39000C4EFB /* View */ = {
-			isa = PBXGroup;
-			children = (
-				AC3725FE2AAC9C39000C4EFB /* ScannerView.swift */,
-			);
-			path = View;
+			path = Source;
 			sourceTree = "<group>";
 		};
 		B53AB4C72D1FF0E96D05BFB3323229D3 /* ScanAnyQR */ = {
