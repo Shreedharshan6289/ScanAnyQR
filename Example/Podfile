@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ScanAnyQR_Example' do
+  pod 'ScanAnyQR', :path => '../'
+
+  target 'ScanAnyQR_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
