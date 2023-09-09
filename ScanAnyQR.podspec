@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
       'QR Scanner which returns url from QR'
                        DESC
 
-  s.homepage         = 'https://github.com/Shreedharshan/ScanAnyQR'
+  s.homepage         = 'https://github.com/Shreedharshan6289/ScanAnyQR'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Shreedharshan' => 'shreedharshan007@gmail.com' }
